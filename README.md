@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Bryce, a full-time Backend Software Engineer Student👨‍💻 learning and studying remotely since March 2022 🚀</div>  
+### <div align="center">I'm Bryce, a full-time Backend Software Engineer Student👨‍💻 learning & studying remotely since March 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
