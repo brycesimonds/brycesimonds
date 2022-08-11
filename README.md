@@ -6,7 +6,7 @@
 ### <div align="center">I'm Bryce, a full-time Backend Software Engineer Student👨‍💻 learning & studying remotely since March 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Choose Your Own Adventure](https://github.com/brycesimonds/choose_your_own_adventure)  
+- 🔭 I’m currently working on [Bulk Discounts Little Esty Shop](https://github.com/brycesimonds/bulk-discounts-little-esty-shop)  
   
 
 - 🌱 I’m currently learning Ruby on Rails  
