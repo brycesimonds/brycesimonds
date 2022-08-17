@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Faraday, Webmock, VCR, Postman, Authorization, Authentication**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
