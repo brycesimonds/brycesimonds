@@ -11,20 +11,20 @@ My life is a quest for adventure, and into Tech I go! My entire life I have want
 
 |Skills| |Currently Learning|
 |---|---|---|
-|Object Oriented Programming (OOP)|Rest   |   |
-|Ruby|Postman|   |
-|Ruby on Rails|   |   |
-|PostgreSQL|Postico   |   |
-|SQL|CSS   |   |
-|ActiveRecord|HTML   |   |
-|Test-Driven Development (TDD)|RSpec   |   |
-|API - Building and Consuming|Github   |   |
-|Heroku   |Git   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|Object Oriented Programming (OOP)|Rest|Serializers   |
+|Ruby|Postman|BCrypt   |
+|Ruby on Rails|Github|Sessions and Cookies   |
+|PostgreSQL|Postico|Service Oriented Architechture   |
+|SQL|CSS|OAuth   |
+|ActiveRecord|HTML|Background Jobs/Workers   |
+|Test-Driven Development (TDD)|RSpec|   |
+|API - Building and Consuming|Git|   |
+|Heroku|Command Line Interface|   |
+|Pry|IRB|   |
+|Model View Controller Architectural Pattern|   |   |
+|Faraday|Webmock - VCR|   |
+|User Stories| Database Schema Designs and Relationships|   |
+|VSCode|CRUD Functionality|   |
 |   |   |   |
 
 
