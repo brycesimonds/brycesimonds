@@ -21,10 +21,10 @@ My life is a quest for adventure, and into Tech I go! My entire life I have want
 |API - Building and Consuming|Git|   |
 |Heroku|Command Line Interface|   |
 |Pry|IRB|   |
-|Model View Controller Architectural Pattern|   |   |
+|Model View Controller Architectural Pattern|CRUD Functionality   |   |
 |Faraday|Webmock - VCR|   |
 |User Stories| Database Schema Designs and Relationships|   |
-|VSCode|CRUD Functionality|   |
+|VSCode||   |
 |   |   |   |
 
 
