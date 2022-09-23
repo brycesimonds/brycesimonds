@@ -12,9 +12,9 @@ My life is a quest for adventure, and into Tech I go! My entire life I have want
 |Skills| | |Currently Learning|
 |---|---|---|---|
 |Object Oriented Programming (OOP)|Rest|Serializers   |Background Jobs/Workers|
-|Ruby|Postman|BCrypt   |
-|Ruby on Rails|Github|Sessions and Cookies   |
-|PostgreSQL|Postico|Service Oriented Architechture   |
+|Ruby|Postman|BCrypt   |Big O Notation|
+|Ruby on Rails|Github|Sessions and Cookies   |Stacks and Queues|
+|PostgreSQL|Postico|Service Oriented Architechture   |Recursion|
 |SQL|CSS|   |
 |ActiveRecord|HTML|   |
 |Test-Driven Development (TDD)|RSpec|   |
