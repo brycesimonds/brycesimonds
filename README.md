@@ -11,12 +11,12 @@ My life is a quest for adventure, and into Tech I go! My entire life I have want
 
 |Skills| | |Currently Learning|
 |---|---|---|---|
-|Object Oriented Programming (OOP)|Rest|Serializers   |
+|Object Oriented Programming (OOP)|Rest|Serializers   |Background Jobs/Workers|
 |Ruby|Postman|BCrypt   |
 |Ruby on Rails|Github|Sessions and Cookies   |
 |PostgreSQL|Postico|Service Oriented Architechture   |
-|SQL|CSS|OAuth   |
-|ActiveRecord|HTML|Background Jobs/Workers   |
+|SQL|CSS|   |
+|ActiveRecord|HTML|   |
 |Test-Driven Development (TDD)|RSpec|   |
 |API - Building and Consuming|Git|   |
 |Heroku|Command Line Interface|   |
@@ -24,7 +24,7 @@ My life is a quest for adventure, and into Tech I go! My entire life I have want
 |Model View Controller Architectural Pattern|CRUD Functionality   |   |
 |Faraday|Webmock - VCR|   |
 |User Stories| Database Schema Designs and Relationships|   |
-|VSCode||   |
+|VSCode|OAuth|   |
 |   |   |   |
 
 
