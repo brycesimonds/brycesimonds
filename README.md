@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bryce</h1>
-<h3 align="center">A full-time Backend Software Engineer Student👨‍💻 learning & studying remotely since March 2022 🚀</h3>
+<h3 align="center">A full-time Backend Software Engineer 👨‍💻 doing so remotely since March 2022 🚀</h3>
 
 <p align="left">
 My life is a quest for adventure, and into Tech I go! My entire life I have wanted to continuously try, experiment, and learn new things. Whether it was when I was 5 years old combining every drink at the McDonald's soda machine to see what it tasted like, to a few years ago tinkering with my car's suspension and brakes, to now changing careers into Software Engineering. Coming from a non-traditional software engineering route - my previous experiences in education and local government have given me a unique perspective, while my schooling in backend engineering has given me the necessary skills. I am passionate about helping my community and to be able to do so through tech makes me ecstatic! I look forward to utilizing open and healthy team communication and collaboration while writing clean, maintainable, and functioning code. Check out my skills below, take a gander at my projects and let's connect!
