@@ -11,10 +11,10 @@ My life is a quest for adventure, and into Tech I go! My entire life I have want
 
 |Skills| | |Currently Learning|
 |---|---|---|---|
-|Object Oriented Programming (OOP)|Rest|Serializers   ||
-|Ruby|Postman|BCrypt   ||
-|Ruby on Rails|Github|Sessions and Cookies   ||
-|PostgreSQL|Postico|Service Oriented Architechture   ||
+|Object Oriented Programming (OOP)|Rest|Serializers   |Rancher Kubernetes Management|
+|Ruby|Postman|BCrypt   |jQuery |
+|Ruby on Rails|Github|Sessions and Cookies   |AWS Tools (S3, EC2, etc.|
+|PostgreSQL|Postico|Service Oriented Architecture   ||
 |SQL|CSS|   |
 |ActiveRecord|HTML|   |
 |Test-Driven Development (TDD)|RSpec|   |
